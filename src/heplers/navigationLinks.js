@@ -16,7 +16,7 @@ export const navigationLinks = [
     ref: '#projects'
   },
   {
-    name: 'RESUME',
+    name: 'Resume',
     ref: 'https://drive.google.com/file/d/1UCuns5cvRJFisButbn6v9sgVnZj8H4Lq/view'
   },
 ]
