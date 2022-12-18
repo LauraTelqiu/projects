@@ -1,0 +1,30 @@
+.aboutpage {
+  width: 100%;
+  height: calc(100vh -100px);
+  align-items: center;
+  font-family: "Arial", sans-serif;
+  color: #565656;
+
+
+
+
+}
+
+.aboutpage p {
+  width: 80%;
+  font-size: 25px;
+  text-align: justify;
+  padding-left: 10%;
+  line-height: 1.6;
+
+
+}
+
+@media only screen and (max-width: 620px) {
+  .aboutpage p {
+    font-size: small;
+    line-height: normal;
+  }
+
+
+}
